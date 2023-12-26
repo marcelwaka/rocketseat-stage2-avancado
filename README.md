@@ -1,7 +1,5 @@
 # rocketseat-stage2-avancado
 
-# rocketseat-explorer-desafio-fase02
-
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
